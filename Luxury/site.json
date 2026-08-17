@@ -1,0 +1,11 @@
+{
+  "title": "Luxury",
+  "description": "Create a professional website for auto repair shops, showcasing services like oil changes and motor replacements, tailored for businesses like Luxury Auto Service GmbH.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
